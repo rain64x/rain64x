@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rain64x
-- 👀 I’m interested in web development, API's and devops stuff
-- 🌱 I’m currently learning Flask
+- 👀 I’m passionate about programming and technology
 - 📫 How to reach me ... rain@rafled.com
 
 ---
