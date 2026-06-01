@@ -46,6 +46,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rain64x&show_icons=true&theme=radial)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rain64x&layout=compact&theme=radial)
+
+
 <!---
 rain64x/rain64x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
