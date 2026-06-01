@@ -2,7 +2,7 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs automatically every day at midnight
+    - cron: "0 0 * * 0" # Runs automatically every Sunday at midnight
   workflow_dispatch: # Allows you to manually trigger it anytime
 
 jobs:
