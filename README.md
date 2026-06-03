@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rain64x
-- 👀 I’m passionate about programming and technology
-- 📫 How to reach me ... rain@rafled.com
+[![My portfolio](./banner.png)](https://mak33.com)
 
 ---
 ## :hammer_and_wrench: Languages and Tools :
@@ -48,7 +46,12 @@
 
 ### 📊 My GitHub Statistics
 
-![My Global Stats](./profile-stats.svg) ![My Most Used Languages](./profile-langs.svg)
+<p align="center">
+  <img src="./profile-stats.svg" width="56%" alt="My Global Stats" />
+  <img src="./profile-langs.svg" width="42%" alt="My Most Used Languages" />
+</p>
+
+[![Email](./banner_footer.png)](mailto:mahesh@rafled.com)
 
 <!---
 rain64x/rain64x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
