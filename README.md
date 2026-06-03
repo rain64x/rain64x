@@ -46,12 +46,8 @@
 
 ### 📊 My GitHub Statistics
 
-<p align="center">
-  <img src="./profile-stats.svg" width="56%" alt="My Global Stats" />
-  <img src="./profile-langs.svg" width="42%" alt="My Most Used Languages" />
-</p>
+![My Global Stats](./profile-stats.svg) ![My Most Used Languages](./profile-langs.svg)
 
-[![Email](./banner_footer.png)](mailto:mahesh@rafled.com)
 
 <!---
 rain64x/rain64x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
